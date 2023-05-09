@@ -56,7 +56,7 @@ Create an interfaces that allows non-developers to easily view and interact with
 
 
 ## Repository Link:
-[Repository Link 'Click Here'.](https://github.com/ThomasCalle/Thomas-SQL-Employee-Tracker)
+[Repository Link 'Click Here'.]([https://github.com/AlexNanut/Employee-Tracker])
 
 ## Walkthrough Video:
 [Click Here to Watch.](https://drive.google.com/file/d/1SueKsdO9OO5mEmG_cxfYEJ98rCb0RkFP/view)
