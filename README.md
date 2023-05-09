@@ -78,5 +78,5 @@ THEN I am prompted to select an employee to update and their new role and this i
 ## What I Learned
 1. How to build a command-line application from scratch to manage an employee database, using Node.js, Inquirer, and MySQL.
 2. Creating a lengthly content management systems (CMS). 
-3. Create direct and coherent walkthrough video that demonstrates the interfaces functionality and acceptance criteria + BONUS acceptance criteria.
+3. Create a walkthrough video that demonstrates the interfaces functionality and acceptance criteria. 
 
