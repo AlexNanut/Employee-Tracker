@@ -10,7 +10,7 @@ The Employee-Tracker interface allows non-developers to easily view and interact
 - [Usage Instructions](#Usage-Instructions)
 - [Built With](#Built-With)
 - [What I Learned](#What-I-Learned)
-- [Continued Development](#Continued-Development)
+
 
 
 # Overview
